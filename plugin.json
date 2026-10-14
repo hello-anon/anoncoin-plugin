@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "anoncoin",
+  "version": "1.0.0",
+  "description": "Launch and manage Anoncoin coins through conversation; view wallet holdings, created coins, launch status, and creator earnings.",
+  "author": {
+    "name": "Anoncoin"
+  }
+}
