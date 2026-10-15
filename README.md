@@ -19,6 +19,5 @@ Setup does not authorize launching or editing a coin. Follow the installed skill
 
 After setup, ask Grok Bot to create a coin, edit an existing coin, show wallet holdings, or check creator earnings.
 
-A skill copied into Grok Bot must be updated separately when this repository changes.
 
 Website: [anoncoin.it](https://anoncoin.it)
